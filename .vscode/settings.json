@@ -1,0 +1,28 @@
+{
+  "files.watcherExclude": {
+    "**/routeTree.gen.ts": true
+  },
+  "search.exclude": {
+    "**/routeTree.gen.ts": true
+  },
+  "files.readonlyInclude": {
+    "**/routeTree.gen.ts": true
+  },
+  "window.zoomLevel": 2.5,
+  "workbench.colorTheme": "Visual Studio Dark",
+  "editor.fontSize": 16,
+  "editor.renderWhitespace": "selection",
+  // "workbench.activityBar.location": "default",
+  "workbench.accounts.showAvatar": false,
+  "editor.cursorBlinking": "solid",
+  "editor.cursorStyle": "line",
+  "editor.codeLens": false,
+  "workbench.hover.delay": 60000,
+  "editor.lightbulb.enabled": "off",
+  "js/ts.tsdk.path": "node_modules/typescript/lib",
+  "files.exclude": {
+    "**/.atl": true
+  },
+  "prettier.singleQuote": true,
+  "prettier.semi": false
+}
